@@ -4,7 +4,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a report showing how customers are performing _[Customer sales performance](https://github.com/prakashM1139/Excel-Finance-and-sales-analytics/blob/main/Customer%20sales%20performance.pdf)
+    **1.** Create a report showing how customers are performing [Customer sales performance](https://github.com/prakashM1139/Excel-Finance-and-sales-analytics/blob/main/Customer%20sales%20performance.pdf)
 
     **2.** Compare market performance to sales target _[market performance](https://github.com/prakashM1139/Excel-Finance-and-sales-analytics/blob/main/Market%20performance.pdf)_
 
