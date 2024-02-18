@@ -9,11 +9,13 @@
     **2.** Compare market performance to sales target _[market performance](https://github.com/prakashM1139/Excel-Finance-and-sales-analytics/blob/main/Market%20performance.pdf)_
 
 - **Why Analyze Sales Data:**
+  
     **1.** Empower businesses to monitor and evaluate their sales activities and performance.
 
     **2.** Identify sales patterns and track key performance indicators (KPIs).
 
 - **Role of reports:**
+  
     **1.** Determine and implement effective customer discount strategies.
 
     **2.** Identify potential opportunities for business expansion in promising countries.
@@ -35,6 +37,7 @@
   
 
 - **Role of reports:**
+  
     **1.** Ensure that financial planning activities are closely aligned with the organization's strategic objectives.
 
     **2.** Foster confidence within the organization by providing a clear and transparent financial outlook.
